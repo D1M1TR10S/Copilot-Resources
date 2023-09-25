@@ -1,13 +1,12 @@
 # Copilot Resources
-Sharing links to popular resources for learning more about GitHub Copilot
+Links to popular resources for learning more about GitHub Copilot.
 
-# Research: Copilot's Impact on Developer Productivity & Satisfaction
-
-## Table of Contents
+## Links to Resources
 1. [Research: Copilot's Impact on Developer Productivity & Satisfaction](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 2. [GitHub Copilot Trust Center](https://resources.github.com/copilot-trust-center/)
 3. [How to use GitHub Copilot: Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
 4. [Upcoming Copilot Features](https://github.com/features/preview/copilot-x)
+5. [Enabling Chat in the IDE (in beta for Visual Studio & VS Code)](https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat?tool=vscode)
 
 ---
 
@@ -26,7 +25,7 @@ Topics covered:
 
 ## Copilot Trust Center
 
-The GitHub Copilot Trust Center is designed to address various concerns related to the tool's security, privacy, intellectual property, and compliance.
+The GitHub Copilot Trust Center addresses questions and concerns related to the tool's security, privacy, intellectual property, and compliance.
 
 Topics covered:
 - Security
@@ -51,4 +50,24 @@ Topics covered:
 
 ## Upcoming Copilot Features
 
+A list of upcoming features for GitHub Copilot, with a focus on leveling up with chat and terminal interfaces, pull request support, and the integration of OpenAI’s GPT-4. Outlines plans to integrate AI into every part of the developer workflow.
 
+Topics covered:
+- Copilot for Docs
+- Copilot for PRs
+- Copilot in the CLI
+
+---
+
+## Enabling Copilot Chat in the IDE
+
+Provides information about the GitHub Copilot Chat functionality and its use within Visual Studio Code & Visual Studio.
+
+Topics covered:
+- Prerequisites
+- Enabling / Disabling GitHub Copilot Chat
+- Installing the Visual Studio Code Extension
+- Asking Your First Question
+- Using Code Suggestions from GitHub Copilot Chat
+- Asking Questions About Your Code
+- Sharing Feedback about GitHub Copilot Chat
