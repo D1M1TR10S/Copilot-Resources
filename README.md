@@ -1,6 +1,7 @@
+![image](https://github.com/D1M1TR10S/Copilot-Resources/assets/26313262/a14f194a-808f-4f91-84ce-1a2f54397795)
+
 # Copilot Resources
 Links to popular resources for learning more about GitHub Copilot.
-![image](https://github.com/D1M1TR10S/Copilot-Resources/assets/26313262/a14f194a-808f-4f91-84ce-1a2f54397795)
 
 ## Links to Resources
 1. [Research: Copilot's Impact on Developer Productivity & Satisfaction](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
